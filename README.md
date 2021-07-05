@@ -50,8 +50,8 @@ During the development of this app, I Learned various new things and strengthene
 
 ### 🔗 Links 
 ---
-##### See Live Running App on:  [Classy Blog](https://classyblog.herokuapp.com/ "Classy Blog")
-##### See Portfolio Website at: [Portfolio](https://devstardude.web.app/ "Portfolio")
+##### See Live Running App on:  [Classy Blog](https://blogclassy.herokuapp.com/)
+
  
 
 
