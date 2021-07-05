@@ -13,9 +13,9 @@ In this app <strong >Markdown</strong> is also integrated to write a beautiful b
 ---
 Just Sign-up/Login yourself and start writing a Blog in Create Post page.
 If you are new to writing a Markdown you can play around on this website to see live preview of your markdown changes:
-[Markdown Live Demo](https://youtu.be/TIwXFr1zYrE "Markdown Live Demo")
+[Markdown Live Demo]
 
-#### You can also see Working of App on Youtube: [Video](https://youtu.be/l7fnlKt_MwY "Video")
+
 
 ### 👨‍💻 Why I Made This App
 ---
