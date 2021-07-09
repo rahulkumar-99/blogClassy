@@ -1,4 +1,4 @@
-# ✏️ Classy Blog
+# ✏️ Blog Classy
 <p align="left">
   <img width="70%" src="https://i.ibb.co/bvgxwVf/blog.png">
 </p>
@@ -6,7 +6,7 @@
 ### 🌟 Introduction 
 ---
 Writing Beautiful Blogs is not a Hard Task anymore. <br/>
-<strong>Classy Blog</strong> is a Featured Blog Post Application to Create, Edit, Delete posts.  
+<strong>Blog Classy</strong> is a Featured Blog Post Application to Create, Edit, Delete posts.  
 In this app <strong >Markdown</strong> is also integrated to write a beautiful blog with pictures, links, and gif support.
 
 ### ✍️ How Does It Work
