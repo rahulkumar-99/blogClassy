@@ -1,7 +1,5 @@
 Blog Classy
-<p align="left">
-  <img width="70%" src="https://i.ibb.co/bvgxwVf/blog.png">
-</p>
+
 
 Introduction
 ---
